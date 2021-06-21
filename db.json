@@ -1,0 +1,37 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Notebook i8",
+      "preco": 5500
+    },
+    {
+      "id": 2,
+      "nome": "Notebook i5",
+      "preco": 4500
+    },
+    {
+      "id": 3,
+      "nome": "Teclado ",
+      "preco": 100
+    },
+    {
+      "id": 5,
+      "nome": "Mouse",
+      "preco": "59.99",
+      "desconto": 10
+    },
+    {
+      "id": 6,
+      "nome": "Fone ",
+      "preco": "40.00",
+      "desconto": 10
+    },
+    {
+      "id": 7,
+      "nome": "Cabo USB 3.0",
+      "preco": "29.99",
+      "desconto": 10
+    }
+  ]
+}
